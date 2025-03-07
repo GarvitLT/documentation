@@ -15,7 +15,6 @@ keywords:
   - hyperexecute getting started
   - lambdatest hyperexecute getting started
   - hyperexecute automation testing
-  - hyperexecute matrix execution
   - hyperexecute autosplit execution
   - hyperexecute auto-split execution
 image: /assets/images/og-images/Getting-Started-with-Lambdatest-Automation.jpg
